@@ -1,5 +1,5 @@
 <?php
-$page_text = "User account page - KGB Team";
+$page_text = "User account page - KGB ULT Team";
 include "includes/header.php"; ?>
 
 <section class="pega1">
